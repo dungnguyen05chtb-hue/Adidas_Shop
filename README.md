@@ -9,7 +9,7 @@ Quản trị viên có thể quản lý sản phẩm, đơn hàng và tài kho�
 Dự án được phát triển theo mô hình SDLC (Waterfall), có đầy đủ phân tích yêu cầu (SRS), và tuân theo chuẩn làm việc nhóm qua GitHub.
 # 💡Các Tính Năng Chính
 
-#👥 Phía Người Dùng:
+# 👥 Phía Người Dùng:
 - Đăng ký / Đăng nhập / Đăng xuất
 - Xem danh sách sản phẩm theo danh mục
 - Xem chi tiết từng sản phẩm
