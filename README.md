@@ -7,7 +7,7 @@ Hệ thống hỗ trợ người dùng đăng ký, đăng nhập, xem chi tiết
 Quản trị viên có thể quản lý sản phẩm, đơn hàng và tài khoản khách hàng.
 
 Dự án được phát triển theo mô hình SDLC (Waterfall), có đầy đủ phân tích yêu cầu (SRS), và tuân theo chuẩn làm việc nhóm qua GitHub.
-#💡 Các Tính Năng Chính
+# 💡Các Tính Năng Chính
 
 #👥 Phía Người Dùng:
 - Đăng ký / Đăng nhập / Đăng xuất
